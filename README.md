@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Nirmit+Singh)](https://git.io/typing-svg)
+# Hi 👋 I'm Nirmit Singh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=%E2%9A%9B%EF%B8%8F+Quantum+ML;%F0%9F%A4%96+Machine+Learning+%2F+Computer+Vision;%F0%9F%9B%B0%EF%B8%8F+IoT+%2F+Embedded+Systems;%F0%9F%9A%80+Building+from+silicon+to+software)](https://git.io/typing-svg)
+### ⚛️ Quantum ML &nbsp;·&nbsp; 🤖 Machine Learning / Computer Vision &nbsp;·&nbsp; 🛰️ IoT / Embedded Systems
 
 <br/>
 
@@ -11,10 +11,18 @@
 [![Gmail](https://img.shields.io/badge/Email-singhnirmit25-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhnirmit25@gmail.com)&nbsp;
 [![Location](https://img.shields.io/badge/Lucknow%2C_India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lucknow,India)
 
-
 </div>
 
-<br/>
+---
+
+## 🙋 About Me
+
+- 🎓 B.Tech Computer Science @ VIT-AP University
+- 📍 Based in Lucknow, India
+- 💡 Passionate about **Machine Learning**, **Quantum Computing** and **Computer Vision**
+- 🔭 Currently exploring **Quantum ML**, **RTL Verification** and **DevOps**
+- 🥈 **2nd Place** — Andhra Pradesh SpaceTech Summit Ideathon 2026
+- 📬 Reach me at **singhnirmit25@gmail.com**
 
 ---
 
@@ -94,12 +102,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Librosa-a78bfa?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Librosa-a78bfa?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
