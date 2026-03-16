@@ -13,9 +13,9 @@
 
 <br/>
 
-![](https://img.shields.io/badge/🥈_AP_SpaceTech_Summit_2026-2nd_Place-fbbf24?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Hackathon--X_2025-Participant-a78bfa?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Google_Dev_Sprint_2025-Participant-67e8f9?style=flat-square)
+![](https://img.shields.io/badge/%F0%9F%A5%88%20AP%20SpaceTech%20Summit%202026-2nd%20Place-fbbf24?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Hackathon--X%202025-Participant-a78bfa?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Google%20Dev%20Sprint%202025-Participant-67e8f9?style=flat-square)
 
 </div>
 
@@ -27,9 +27,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NirmitSingh-main&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmitSingh-main&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=NirmitSingh-main&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9" height="175" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmitSingh-main&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9" height="175" />
 
 <br/><br/>
 
@@ -53,11 +51,11 @@
 
 <div align="center">
 
-[![audio-deepfake-detection](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=audio-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/audio-deepfake-detection)&nbsp;
-[![AstroG](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=AstroG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/AstroG)
+[![audio-deepfake-detection](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=audio-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/audio-deepfake-detection)&nbsp;&nbsp;[![AstroG](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=AstroG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/AstroG)
 
-[![SmartVeriRank](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=SmartVeriRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/SmartVeriRank)&nbsp;
-[![MediBot](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=MediBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/MediBot)
+<br/>
+
+[![SmartVeriRank](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=SmartVeriRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/SmartVeriRank)
 
 </div>
 
@@ -67,23 +65,37 @@
 
 <div align="center">
 
-### Languages
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,r,mysql&perline=6" />
 
-### ML / Data Science
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,opencv,pytorch&perline=6" />
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Librosa-a78bfa?style=for-the-badge&logo=python&logoColor=white" />
+
+**ML / Data Science**
+
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,opencv,pytorch&perline=6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Librosa-a78bfa?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-### Web & Backend
+<br/><br/>
+
+**Web & Backend**
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express&perline=6" />
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,matlab&perline=6" />
 <br/>
-<img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=for-the-badge&logo=verilog&logoColor=67e8f9&color=0d1117&labelColor=0d1117" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,matlab&perline=6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=for-the-badge&logo=verilog&logoColor=67e8f9&labelColor=161b22&color=161b22" />&nbsp;
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
 </div>
@@ -101,7 +113,5 @@
 ---
 
 <div align="center">
-
-*✦ built with curiosity · powered by stardust ✦*
-
+<i>✦ built with curiosity · powered by stardust ✦</i>
 </div>
