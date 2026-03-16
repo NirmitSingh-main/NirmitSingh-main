@@ -13,9 +13,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/%F0%9F%A5%88%20AP%20SpaceTech%20Summit%202026-2nd%20Place-fbbf24?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Hackathon--X%202025-Participant-a78bfa?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Google%20Dev%20Sprint%202025-Participant-67e8f9?style=flat-square)
+![](https://img.shields.io/badge/%F0%9F%A5%88%20AP%20SpaceTech%20Summit%202026-2nd%20Place-fbbf24?style=flat-square)
 
 </div>
 
@@ -51,15 +49,34 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=audio-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/audio-deepfake-detection)&nbsp;&nbsp;[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=AstroG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/AstroG)
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+[![audio-deepfake-detection](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=audio-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/audio-deepfake-detection)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=SmartVeriRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/SmartVeriRank)&nbsp;&nbsp;[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=NirmitSingh-main&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main)
+</td>
+<td width="50%">
+
+[![AstroG](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=AstroG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/AstroG)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![SmartVeriRank](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=SmartVeriRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/SmartVeriRank)
+
+</td>
+<td width="50%">
+
+[![ai-renewable-grid](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=ai-renewable-grid&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/ai-renewable-grid)
+
+</td>
+</tr>
+</table>
 
 </div>
-
-> 💡 **To show all your repos automatically:** Go to your GitHub profile → click **Customize your pins** → select up to 6 repos. They'll appear on your profile page directly above this README.
 
 ---
 
@@ -77,7 +94,7 @@
 
 <img src="https://skillicons.dev/icons?i=sklearn,numpy,opencv,pytorch,tensorflow&perline=5" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Librosa-a78bfa?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
@@ -95,7 +112,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,matlab&perline=6" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SystemVerilog-161b22?style=for-the-badge&logo=verilog&logoColor=67e8f9&labelColor=161b22" />&nbsp;
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
