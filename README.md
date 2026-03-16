@@ -11,9 +11,6 @@
 [![Gmail](https://img.shields.io/badge/Email-singhnirmit25-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhnirmit25@gmail.com)&nbsp;
 [![Location](https://img.shields.io/badge/Lucknow%2C_India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lucknow,India)
 
-<br/>
-
-![](https://img.shields.io/badge/%F0%9F%A5%88%20AP%20SpaceTech%20Summit%202026-2nd%20Place-fbbf24?style=flat-square)
 
 </div>
 
@@ -92,7 +89,14 @@
 
 **ML / Data Science**
 
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,opencv,pytorch,tensorflow&perline=5" />
+<img src="https://skillicons.dev/icons?i=sklearn,opencv,pytorch,tensorflow&perline=4" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Librosa-a78bfa?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 <br/><br/>
 
