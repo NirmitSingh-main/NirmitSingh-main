@@ -47,17 +47,19 @@
 
 ---
 
-## 🚀 Pinned Projects
+## 🚀 Top Repositories
 
 <div align="center">
 
-[![audio-deepfake-detection](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=audio-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/audio-deepfake-detection)&nbsp;&nbsp;[![AstroG](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=AstroG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/AstroG)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=audio-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/audio-deepfake-detection)&nbsp;&nbsp;[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=AstroG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main/AstroG)
 
 <br/>
 
-[![SmartVeriRank](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=SmartVeriRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/SmartVeriRank)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=SmartVeriRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/NirmitSingh-main/SmartVeriRank)&nbsp;&nbsp;[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=NirmitSingh-main&repo=NirmitSingh-main&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=67e8f9&text_color=c9d1d9)](https://github.com/NirmitSingh-main)
 
 </div>
+
+> 💡 **To show all your repos automatically:** Go to your GitHub profile → click **Customize your pins** → select up to 6 repos. They'll appear on your profile page directly above this README.
 
 ---
 
@@ -69,11 +71,11 @@
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,r,mysql&perline=6" />
 
-<br/>
+<br/><br/>
 
 **ML / Data Science**
 
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,opencv,pytorch&perline=6" />
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,opencv,pytorch,tensorflow&perline=5" />
 
 <br/>
 
@@ -85,9 +87,9 @@
 
 **Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express&perline=4" />
 
-<br/>
+<br/><br/>
 
 **Databases & Tools**
 
@@ -95,7 +97,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=for-the-badge&logo=verilog&logoColor=67e8f9&labelColor=161b22&color=161b22" />&nbsp;
+<img src="https://img.shields.io/badge/SystemVerilog-161b22?style=for-the-badge&logo=verilog&logoColor=67e8f9&labelColor=161b22" />&nbsp;
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
 </div>
