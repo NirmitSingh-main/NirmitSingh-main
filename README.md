@@ -22,6 +22,7 @@
 - 💡 Passionate about **Machine Learning**, **Quantum Computing** and **Computer Vision**
 - 🔭 Currently exploring **Quantum ML**, **RTL Verification** and **DevOps**
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -120,16 +121,6 @@
 
 <img src="https://img.shields.io/badge/SystemVerilog-161b22?style=for-the-badge&logo=verilog&logoColor=67e8f9&labelColor=161b22" />&nbsp;
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NirmitSingh-main&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
