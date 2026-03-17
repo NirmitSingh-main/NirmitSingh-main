@@ -21,7 +21,6 @@
 - 📍 Based in Lucknow, India
 - 💡 Passionate about **Machine Learning**, **Quantum Computing** and **Computer Vision**
 - 🔭 Currently exploring **Quantum ML**, **RTL Verification** and **DevOps**
-- 🥈 **2nd Place** — Andhra Pradesh SpaceTech Summit Ideathon 2026
 
 ---
 
