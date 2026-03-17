@@ -20,7 +20,7 @@
 - 🎓 B.Tech Computer Science @ VIT-AP University
 - 📍 Based in Lucknow, India
 - 💡 Passionate about **Machine Learning**, **Quantum Computing** and **Computer Vision**
-- 🔭 Currently exploring **Quantum ML**, **RTL Verification** and **DevOps**
+- 🔭 Currently exploring **Quantum ML**, **HPC** and **DevOps**
 
 
 ---
